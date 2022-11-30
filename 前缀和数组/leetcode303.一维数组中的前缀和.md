@@ -1,3 +1,14 @@
+## 差分数组参考文章
+
+1. [小而美的算法技巧：差分数组 :: labuladong的算法小抄 (gitee.io)](https://labuladong.gitee.io/algo/2/20/25/)
+2. [(2条消息) 前缀和与差分 图文并茂 超详细整理（全网最通俗易懂）_林小鹿@的博客-CSDN博客_前缀和差分](https://blog.csdn.net/weixin_45629285/article/details/111146240)
+
+
+
+
+
+
+
 题目链接：https://leetcode.cn/problems/range-sum-query-immutable/
 
 题目难度：简单
