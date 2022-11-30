@@ -2,7 +2,13 @@
 
 
 
-## 参考链接
+## 推荐
+
+:star::star::star::star::star: 算法刷题入门可以参考[labuladong 的算法小抄](https://labuladong.gitee.io/algo/)
+
+
+
+:link: 参考链接
 
 - [《算法和数据结构》学习路线指引_英雄哪里出来的博客-CSDN博客_数据结构与算法学习路线](https://blog.csdn.net/WhereIsHeroFrom/article/details/118382228)
 - [《算法和数据结构》题海战术篇_英雄哪里出来的博客-CSDN博客](https://blog.csdn.net/WhereIsHeroFrom/article/details/118749448)
